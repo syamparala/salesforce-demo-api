@@ -4,7 +4,7 @@ trigger:
     include:
     - feature/*
     - develop
-    - master
+    - main
     exclude:
     - 'refs/tags/*'
   paths:
